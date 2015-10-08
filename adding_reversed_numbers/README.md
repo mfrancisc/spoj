@@ -28,3 +28,4 @@ For each case, print exactly one line containing only one integer - the reversed
 34
 1998
 1
+
